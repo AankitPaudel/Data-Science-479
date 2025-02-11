@@ -1,0 +1,19 @@
+{
+    "Project_Title": "Analysis of Netflix’s Financial Performance",
+    "Created_By": "Ankit Paudel",
+    "Dataset_Overview": "Historical financial data for Netflix",
+    "Stock_Symbol": "NFLX (NASDAQ)",
+    "Analysis_Period": "From January 2022 - December 2023 (from first day - last day of period in market opening time)",
+    "Data_Attributes": "Date, Opening Price, Highest Price, Lowest Price, Closing Price, Trading Volume, Daily Percentage Return, Price Volatility",
+    "Measurement_Units": "US Dollars (USD), Number of Shares, Percentage",
+    "Data_Gathering_Technique": "Python script using Alpha Vantage API",
+    "Analysis_Tools": "Jupyter Notebook, Google Collab",
+    "Research_Purpose": "To evaluate the effect of streaming wars on Netflix’s stock activity",
+    "Project_Scope": "Trend analysis of Netflix’s stock post-2024 using prior data",
+    "Anticipated_Updates": "Possible addition of competitive analysis data and metrics on subscriber growth",
+    "Data_Types": "Numeric (financial figures, trading volumes), Date",
+    "Creation_Date": "January 27, 2025",
+    "Data_Retrieval_Date": "January 27, 2025",
+    "File_Formats": "CSV, Excel",
+    "Conformance_to_Standards": "Financial Records Data Standard (FRDS), Statistical Data and Metadata Exchange (SDMX)"
+}
